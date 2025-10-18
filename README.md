@@ -52,7 +52,7 @@ A guide to the primary and branch communities under the **Effective Utopia (ê/u
 **Alternative Branding:**
 
 * [Neoherbalist](https://www.cosmos.so/cosimosportinari/40k-techno-herbalist)
-* [NeoJungle] (https://www.cosmos.so/cosimosportinari/uto-neojungle1)
-* [NonUniversep] (https://www.cosmos.so/cosimosportinari/uto-neonuniverse1)
-* [NeonClassical] (https://www.cosmos.so/cosimosportinari/uto-neonclassical)
-* [Meganrim] (https://www.cosmos.so/cosimosportinari/meganrim1)
+* [NeoJungle](https://www.cosmos.so/cosimosportinari/uto-neojungle1)
+* [NonUniversep](https://www.cosmos.so/cosimosportinari/uto-neonuniverse1)
+* [NeonClassical](https://www.cosmos.so/cosimosportinari/uto-neonclassical)
+* [Meganrim](https://www.cosmos.so/cosimosportinari/meganrim1)
