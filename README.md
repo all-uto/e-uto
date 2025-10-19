@@ -1,4 +1,4 @@
-# UTO Communities Directory
+* e-uto primary info
 
 A guide to the primary and branch communities under the **Effective Utopia (ê/uto)** network.
 
@@ -50,9 +50,12 @@ A guide to the primary and branch communities under the **Effective Utopia (ê/u
 > 🪴 *Pinterest may still be maintained by volunteers for accessibility, but it’s no longer the primary upload hub.*
 
 **Alternative Branding:**
-
+* [logo variations](https://www.cosmos.so/cosimosportinari/uto-variations)
 * [Neoherbalist](https://www.cosmos.so/cosimosportinari/40k-techno-herbalist)
 * [NeoJungle](https://www.cosmos.so/cosimosportinari/uto-neojungle1)
 * [NonUniversep](https://www.cosmos.so/cosimosportinari/uto-neonuniverse1)
 * [NeonClassical](https://www.cosmos.so/cosimosportinari/uto-neonclassical)
 * [Meganrim](https://www.cosmos.so/cosimosportinari/meganrim1)
+
+**Characters**
+* [Time Mage](https://www.cosmos.so/cosimosportinari/uto-time-trickster)
