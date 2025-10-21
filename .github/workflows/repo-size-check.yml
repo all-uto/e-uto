@@ -1,0 +1,9 @@
+name: Repo size check
+on: [pull_request]
+jobs:
+  size:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Print repo size
+        run: du -sh . || true
