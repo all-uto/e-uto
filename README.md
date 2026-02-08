@@ -24,7 +24,7 @@ A guide to the primary and branch communities under the **Effective Utopia (ê/u
 **Documents:**
 
 * [uto.new/d](https://docs.google.com/spreadsheets/d/1MdaJZFffoT47z7x7S6Kc9nUwHssbwGVL1iemuZ7bde4/edit?gid=913268082#gid=913268082)
-* [Main Grok uto convo]([https://docs.google.com/spreadsheets/d/1MdaJZFffoT47z7x7S6Kc9nUwHssbwGVL1iemuZ7bde4/edit?gid=913268082#gid=913268082](https://grok.com/share/c2hhcmQtMg_0465cf95-2976-48e8-8c1c-91f01eec0a48))
+* [Main Grok uto convo]([https://docs.google.com/spreadsheets/d/1MdaJZFffoT47z7x7S6Kc9nUwHssbwGVL1iemuZ7bde4/edit?gid=913268082#gid=913268082](](https://grok.com/share/c2hhcmQtMg_0465cf95-2976-48e8-8c1c-91f01eec0a48)
 * [Public Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPKkHQyCVegvg-77Ymtd_YndIqcSuIKYM60VR7cw_Cc9Lss8mE3TUzXXveZyYzoX25aU2s0Qr9lzle/pubhtml?gid=913268082&single=true)
 * [Community Docs](https://docs.google.com/document/d/1Rqt7jQEP5QAmwEcMd-X0nsfxJECuYKX0QtwiSBYlLZ0/edit?tab=t.0#heading=h.bp45x6gtoc7x)
 * [ê/uto Principles – Hardware](https://melonusk.substack.com/p/notes-on-euto-principles-and-tenets#%C2%A7the-main-hardware-side-proposal-the-safe-gpu-cloud)
