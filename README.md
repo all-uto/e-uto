@@ -8,6 +8,8 @@ A guide to the primary and branch communities under the **Effective Utopia (ê/u
 
 **Community:** [ê/uto on X](https://x.com/i/communities/1972120319398760959)
 
+**SUBMIT YOUR ANTIDISTOPIAN/UTOPIA IDEAS:** [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSd403O127IRqb2jMqgZxk9Xwu3FAm3fPFhcvrUNW2YLJAkG2w/viewform)
+
 **Communications:**
 
 * **Discord:** [Join Main Server](https://discord.gg/P9suffJv)
